@@ -1,0 +1,26 @@
+[
+    {
+        "__class__": "Provincia",
+        "__atributos__": {
+            "nombre": "San Juan",
+            "capital": "San Juan",
+            "cantidadHabitantes": 1000000,
+            "cantidadDepartamentos": 23,
+            "temperatura": 19.92,
+            "humedad": 13,
+            "sensacionTermica": 18.31
+        }
+    },
+    {
+        "__class__": "Provincia",
+        "__atributos__": {
+            "nombre": "Mendoza",
+            "capital": "Mendoza",
+            "cantidadHabitantes": 1928730,
+            "cantidadDepartamentos": 34,
+            "temperatura": 17.27,
+            "humedad": 16,
+            "sensacionTermica": 15.47
+        }
+    }
+]
